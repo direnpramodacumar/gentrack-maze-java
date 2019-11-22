@@ -121,3 +121,16 @@ OUTPUT:
 #XXXXXXXE#
 #X########
 ```
+
+To run the program:
+===================
+
+1. you need to run java -jar MazeSolver.jar in cmd.
+
+2. Then a dialog window will appear for you to select the file.
+
+3. After selecting the file, the program will automatically give the answer if the path is found or not. 
+
+For example:
+If the file contains a solvable maze, the program will print "Path Found" and print the maze with the path.
+However, if the maze is not solvable, then the program will just display "Path not Found".
